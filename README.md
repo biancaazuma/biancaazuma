@@ -5,7 +5,7 @@ Paraná - Brazil
 
 #### Bachelor in Computer Science
 
-**Phone:** +55 43 99117-3437 (Skype, Telegram, Whatsapp)
+**Phone:** +55 43 99117-3437
 
 **E-mail:** biancaazuma@gmail.com
 
