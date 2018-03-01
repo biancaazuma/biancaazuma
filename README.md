@@ -58,10 +58,10 @@ Paraná - Brazil
 
 ---
 
-## Lenguage Skill
+## Language Skill
 
 **Portuguese:**
-* Native lenguage
+* Native language
 
 **English:**
 * Writing: Fluent
