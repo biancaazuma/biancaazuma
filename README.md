@@ -61,19 +61,19 @@ Paraná - Brazil
 ## Lenguage Skill
 
 **Portuguese:**
-*Native lenguage
+* Native lenguage
 
 **English:**
-*Writing: Fluent
-*Reading: Fluent
-*Speaking: Advanced
-*Listening: Advanced
+* Writing: Fluent
+* Reading: Fluent
+* Speaking: Advanced
+* Listening: Advanced
 
 **Spanish:**
-*Writing: Intermediate
-*Reading: Advanced
-*Speaking: Intermediate
-*Listening: Intermediate
+* Writing: Intermediate
+* Reading: Advanced
+* Speaking: Intermediate
+* Listening: Intermediate
 
 ---
 
@@ -81,16 +81,16 @@ Paraná - Brazil
 
 **Courses:**
 
-*"Curso de lógica em programação e Desenvolvimento de jogos digitais", Sesc 2017
+* "Curso de lógica em programação e Desenvolvimento de jogos digitais", Sesc 2017
 
 **Events Organization:**
 
-*"Science Computer Week", UNESPAR 2015
+* "Science Computer Week", UNESPAR 2015
 
 **Rewards and Certificates:**
 
-*"TOEFL ITP 2015", TOEFL 2018, Grade: 517/670 (77%)
-*"1º Hackathon Londrina Genial 2015", Forum EletroMetalCon, SENAI 2015
-*"STEP UP - Student Transition and Elevation Partnership", IEEE - UEL 2014
-*"Automação e Robótica", FAP 2014
-*"Introduction to Inkscape", FLISoL - UFPR 2016
+* "TOEFL ITP 2015", TOEFL 2018, Grade: 517/670 (77%)
+* "1º Hackathon Londrina Genial 2015", Forum EletroMetalCon, SENAI 2015
+* "STEP UP - Student Transition and Elevation Partnership", IEEE - UEL 2014
+* "Automação e Robótica", FAP 2014
+* "Introduction to Inkscape", FLISoL - UFPR 2016
