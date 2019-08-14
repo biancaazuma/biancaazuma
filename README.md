@@ -41,52 +41,52 @@ São Paulo - Brazil
 ## Main Skills
 
 **DataBase:**
-* SQL server
+- SQL server
 
 **BackEnd:**
-* C#
+- C#
 
 **FrontEnd:**
-* HTML
-* CSS
-* Javascript
-* JQuery
+- HTML
+- CSS
+- Javascript
+- JQuery
 
 **Design:**
-* Blender
-* Photoshop
+- Blender
+- Photoshop
 
 ---
 
 ## Extras Skills
 
 **Extras:**
-* Knowledge in MVC architecture
-* Inkscape
-* ZBrush
-* Excel
+- Knowledge in MVC architecture
+- Inkscape
+- ZBrush
+- Excel
 
 **IDE:**
-* Visual Studio
+- Visual Studio
 
 ---
 
 ## Language Skill
 
 **Portuguese:**
-* Native language
+- Native language
 
 **English:**
-* Writing: Advanced
-* Reading: Advanced
-* Speaking: Intermediate
-* Listening: Advanced
+- Writing: Advanced
+- Reading: Advanced
+- Speaking: Intermediate
+- Listening: Advanced
 
 **Spanish:**
-* Writing: Intermediate
-* Reading: Intermediate
-* Speaking: Intermediate
-* Listening: Intermediate
+- Writing: Intermediate
+- Reading: Intermediate
+- Speaking: Intermediate
+- Listening: Intermediate
 
 ---
 
@@ -94,16 +94,16 @@ São Paulo - Brazil
 
 **Courses:**
 
-* "Curso de lógica em programação e Desenvolvimento de jogos digitais", Sesc 2017
+- "Curso de lógica em programação e Desenvolvimento de jogos digitais", Sesc 2017
 
 **Events Organization:**
 
-* "Science Computer Week", UNESPAR 2015
+- "Science Computer Week", UNESPAR 2015
 
 **Rewards and Certificates:**
 
-* "TOEFL ITP 2015", TOEFL 2018, Grade: 517/670 (77%)
-* "1º Hackathon Londrina Genial 2015", Forum EletroMetalCon, SENAI 2015
-* "STEP UP - Student Transition and Elevation Partnership", IEEE - UEL 2014
-* "Automação e Robótica", FAP 2014
-* "Introduction to Inkscape", FLISoL - UFPR 2016
+- "TOEFL ITP 2015", TOEFL 2018, Grade: 517/670 (77%)
+- "1º Hackathon Londrina Genial 2015", Forum EletroMetalCon, SENAI 2015
+- "STEP UP - Student Transition and Elevation Partnership", IEEE - UEL 2014
+- "Automação e Robótica", FAP 2014
+- "Introduction to Inkscape", FLISoL - UFPR 2016
