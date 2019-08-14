@@ -1,5 +1,5 @@
 # Bianca Lee Azuma
-Paraná - Brazil
+São Paulo - Brazil
 
 ---
 
@@ -20,19 +20,23 @@ Paraná - Brazil
 > * Extension: Game development with Unity (1 year), learn how to build your own game
 > * Monitoring: Analytic geometry and Linear algebra (2 years)
 > * Practical Experience: Image Processing, Computer Graphics, linear algebra, analytic geometry, AI, calculation, statistic, programming logic
-> * **Period:** *february 2014 – in progress | Apucarana, PR*
+> * **Period:** *february 2014 – december 2018 | Apucarana, PR*
 
 ---
 
 ## Main Skills
 
+**DataBase:**
+* SQL server
+
 **BackEnd:**
-* Java
-* C/C++
-* Software Engineering knowledge
+* C#
 
 **FrontEnd:**
 * HTML
+* CSS
+* Java Script
+* JQuery
 
 **Design:**
 * Blender
@@ -43,17 +47,12 @@ Paraná - Brazil
 ## Extras Skills
 
 **Extras:**
-* OpenCV
-* OpenGL
-* Software Architecture
-* SketchUp
+* Knowledge in MVC architecture
 * Inkscape
 * ZBrush
 * Excel
 
 **IDE:**
-* Eclipse
-* Netbeans
 * Visual Studio
 
 ---
@@ -64,14 +63,14 @@ Paraná - Brazil
 * Native language
 
 **English:**
-* Writing: Fluent
-* Reading: Fluent
-* Speaking: Advanced
+* Writing: Advanced
+* Reading: Advanced
+* Speaking: Intermediate
 * Listening: Advanced
 
 **Spanish:**
 * Writing: Intermediate
-* Reading: Advanced
+* Reading: Intermediate
 * Speaking: Intermediate
 * Listening: Intermediate
 
