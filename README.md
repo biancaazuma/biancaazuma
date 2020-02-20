@@ -28,13 +28,13 @@ São Paulo - Brazil
 
 * **.Net System Analyst - junior**
 > * Local: Tata Consultancy Services - São Paulo - SP
-> * Practical Experience: .net, SQL Server, agile methodology, crawler.
-> * **Period:** *february 2014 – december 2018 | Apucarana, PR*
+> * Practical Experience: .net, SQL Server, agile methodology, crawler windows forms, crawler web.
+> * **Period:** *march 2019 – actual | São Paulo, SP*
 
 * **.Net Developer - Trainee**
 > * Local: Tata Consultancy Services - Londrina - PR
 > * Practical Experience:  .net, razor (MVC), xUnit, selenium, angular, html, css, bootstrap, javascript, jquery, agile methodology, relational database.
-> * **Period:** *february 2014 – december 2018 | Apucarana, PR*
+> * **Period:** *march 2018 – march 2019 | Londrina, PR*
 
 ---
 
