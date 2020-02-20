@@ -83,10 +83,10 @@ São Paulo - Brazil
 - Listening: Advanced
 
 **Spanish:**
-- Writing: Intermediate
-- Reading: Intermediate
-- Speaking: Intermediate
-- Listening: Intermediate
+- Writing: Beginner
+- Reading: Beginner
+- Speaking: Beginner
+- Listening: Beginner
 
 ---
 
