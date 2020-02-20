@@ -28,7 +28,7 @@ São Paulo - Brazil
 
 * **.Net System Analyst - junior**
 > * Local: Tata Consultancy Services - São Paulo - SP
-> * Practical Experience: .net, SQL Server, agile methodology, crawler windows forms, crawler web.
+> * Practical Experience: .net, SQL Server, agile methodology, crawler windows forms, crawler web, web development, windows forms development.
 > * **Period:** *march 2019 – actual | São Paulo, SP*
 
 * **.Net Developer - Trainee**
