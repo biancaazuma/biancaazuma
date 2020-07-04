@@ -107,3 +107,4 @@ São Paulo - Brazil
 - "STEP UP - Student Transition and Elevation Partnership", IEEE - UEL 2014
 - "Automação e Robótica", FAP 2014
 - "Introduction to Inkscape", FLISoL - UFPR 2016
+- "DevFest Paraná 2018", GDG 2018
